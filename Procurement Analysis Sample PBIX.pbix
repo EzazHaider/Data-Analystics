@@ -25,4 +25,4 @@ Data-driven control: Use visual insights to monitor invoice timing, vendor tiers
 
 Technical Model & Sources
 The data model connects eight interconnected tables—including vendors, invoices, line items, dates, exchange rates—allowing granular drill-down and robust DAX-driven measures 
-blog.enterprisedna.co
+
